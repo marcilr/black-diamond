@@ -1,0 +1,146 @@
+bomb-shelter.txt
+Created Mon Jun  5 05:39:12 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Black Diamond Bombshelter tent
+4-person 4-Season
+
+
+make:          Black Diamond
+support:       (855)461-8660
+chat:          (800)409-4502
+
+Questions?
+(800) 775-5552
+Monday-Friday
+8am-5pm, Mountain Time
+Email: bdmo@bdel.com
+
+model:         Bombshelter
+item:          #BLD0018
+capacity:      4-person
+seasons:       4-season
+size:          One Size
+color:         Yellow
+
+price     :    $999.95
+discount code: BD25-PCX5-FVKB-5R3V-DWZ1
+
+
+
+Thu Jun  8 05:18:12 AKDT 2017
+=============================
+Yeh hah!  Bombshelter arrived today.   Got unpacked.  Still need to setup
+and test in back yard.
+
+
+Mon Jun  5 05:54:06 AKDT 2017
+=============================
+Ordered tent at 25% discouont from Black Diamond site.
+
+
+Called (800)409-4502 to determine the correct ground pad for 
+the Black Diamond Bombshelter tent.
+
+Advised Black Diamond Bombshelter footprint Item #BLD00BG
+Didn't this via search.  Went with Bombshelter Tent Ground Cloth.
+
+1. Create order
+
+
+Item                                                Price
+-----------------------------------------------------------
+Black Diamond Bombshelter Tent: 4-Person 4-Season   $999.95
+  Item# BD810010YELOALL1
+
+Bombshelter Tent Ground Cloth                       $59.95
+  Item# BD8100150000ALL1
+
+Coupon Number: BD25-PCX5-FVKB-5R3V-DWZ1
+
+                                       25%-code (-$249.99)
+                                        25%-code (-$14.99)
+                                       Subtotal:   $794.92
+
+shipping: Free 2-Day shipping on orders over $50*    $0.00
+priority mail:                                      $64.95   <=== No free shipping on checkout.
+                                          ----------------        Appied at Continue to Billing
+                                          Total:   $859.87
+
+===> 1-Black-Diamond-Equipment-Your-Shopping-Cart.pdf 
+===> 2-Black-Diamond-Equipment-Checkout.pdf
+
+2. Checkout
+click Checkout
+
+===> 3-Black-Diamond-Equipment-Checkout-Billing-and-Payment.pdf 
+
+
+
+Registered Customers login did not work despite having just created account.
+Perhaps time detail for site integration.
+
+click Guest Checkout
+
+First Name:     Raymond
+Last Name:      Marcil
+Country:        United States
+Address 1:      706 East 73rd Avenue, Unit 1
+City:           Anchorage,
+State/Province: Alaska
+Zip Code:       99518
+Phone:          907-351-7514
+
+click Continue to Billing
+
+
+3. Billing & Paymond Information
+
+Put on Denali
+
+click Continue
+
+
+4. At Summary, review your order
+click Submit Order
+
+Bombshelter Tent                          $749.96
+  Item# BD810010YELOALL1       
+
+Bombshelter Tent Ground Cloth              $44.96
+  Item# BD8100150000ALL1
+
+Coupon Number: BD25-PCX5-FVKB-5R3V-DWZ1   Applied
+  25%-code (-$249.99)
+  25%-code (-$14.99)
+
+                              Subtotal:   $794.92
+                           Priority Mail   $64.95
+                           ----------------------
+                                 Total:   $859.87
+
+click Submit Order
+
+===> 4-Black-Diamond-Equipment-Checkout-Summary.pdf
+
+
+5. Thank you for your order
+
+===> 5-Black-Diamond-Equipment-Checkout-Confirmation.pdf
+
+
+
+Links
+=====
+Black Diamond Bombshelter tent
+4-person 4-Season
+https://www.backcountry.com/black-diamond-bombshelter-tent-4-person-4-season
+
+Bombshelter Tent Ground Cloth
+Item# BD8100150000ALL1
+Average Ground Cloth Weight :  486 g (1 lb 1 oz)
+price: $59.95
+http://blackdiamondequipment.com/en_US/tents-and-bivys/bombshelter-tent-ground-cloth-BD8100150000ALL1.html#details
+http://blackdiamondequipment.com/en_US/tents-and-bivys/bombshelter-tent-ground-cloth-BD8100150000ALL1.html#q=footprint&start=6
+
